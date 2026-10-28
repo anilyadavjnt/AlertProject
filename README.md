@@ -46,8 +46,10 @@ AlertProject is a personal iOS development project created to strengthen my skil
 **Anil Kumar Yadav**  
 iOS Developer
 
+- Gmail: anilyadavjnt@gmail.com
 - GitHub: https://github.com/anilyadavjnt
 - LinkedIn: https://linkedin.com/in/anilyadavjnt
+- Portfolio: https://portfolio-anilyadavjnt.vercel.app
 
 ---
 
