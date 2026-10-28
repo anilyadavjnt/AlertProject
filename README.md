@@ -30,7 +30,6 @@ Add screenshots of the app here to demonstrate its interface and functionality.
 
 <img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-28 at 23 15 40" src="https://github.com/user-attachments/assets/6fec4621-2882-4624-8c41-88067c9cf8bc" />
 
-
 ## ⚙️ Requirements
 
 - macOS with a compatible version of Xcode
