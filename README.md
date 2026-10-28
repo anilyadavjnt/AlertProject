@@ -24,7 +24,6 @@ AlertProject is a personal iOS development project created to strengthen my skil
 
 ## 📸 Screenshots
 
-Add screenshots of the app here to demonstrate its interface and functionality.
 
 <img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-10-28 at 23 15 32" src="https://github.com/user-attachments/assets/0fbd4cfe-cf13-413c-bebf-a43068a35039" />
 
